@@ -107,7 +107,6 @@ This project employs the **K-Means clustering** algorithm, an unsupervised machi
 ## 📚 References
 
 - **Author:** Harsh Pandey  
-- **Contact:** [your.email@example.com]  
 - **Original Dataset:** [Mall Customers Dataset on Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ---
